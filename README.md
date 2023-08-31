@@ -6,8 +6,7 @@
 
 ### Fases de maven
 
-- Maven  define un conjunto de fases  que conforman el ciclo de vida  de construccion de un proyecto los cuales son : 
-
+- Maven  define un conjunto de fases  que conforman el ciclo de vida  de construccion de un proyecto los cuales son: 
 1. Validate: Valida que el proyecto es correcto.    
 2. Compile: Compila el proyecto.
 3. Test: Se ejecutan las pruebas  unitarias del proyecto asegurando que el codigo si este funcionando correctamente.
